@@ -26,5 +26,5 @@ An AI-powered interview preparation platform designed to simulate real-world tec
 * **Framework:** [Spring Boot](https://spring.io/projects/spring-boot) (Java)
 * **Build Tool:** Maven / Gradle
 * **Security:** Spring Security & JWT (JSON Web Tokens)
-* **AI Integration:** OpenAI API (or alternative LLM providers)
+* **AI Integration:** Gemini API (or alternative LLM providers)
 * **Database:** PostgreSQL / MySQL
